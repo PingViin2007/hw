@@ -7,13 +7,13 @@
 // {
 //     if (num > 0)
 //     {
-//         int thi = num / 10 % 10;
-//         Console.WriteLine("Третья цифра этого числа: " + thi);
+//         int third = num / 10 % 10;
+//         Console.WriteLine("Третья цифра этого числа: " + third);
 //     }
 //     else
 //     {
-//         int thi = (num * -1) / 10 % 10;
-//         Console.WriteLine("Третья цифра этого числа: " + thi);
+//         int third = (num * -1) / 10 % 10;
+//         Console.WriteLine("Третья цифра этого числа: " + third);
 //     }
 // }
 // else
